@@ -1,4 +1,4 @@
-# 💫 About Me:
+Hi 👋 My name is Avadhut
 🌱 I’m currently learning Java, Spring Boot, and System Design<br><br>👨‍💻 I’m currently working Remote.<br><br>📑 Check out my resume here - My Resume<br><br>💻 All of my projects are available on GitHub<br><br>💬 Interested In Programming, Open Ai, Development, Cyber Security<br><br>📫 Reach out to me at Sagarsm485@gmail.com
 
 
